@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="8px" viewBox="0 0 8 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic/mini/trendown" transform="translate(-4.000000, -4.000000)" fill="#FF4D2B" fill-rule="nonzero">
+            <path d="M11.2160858,12 C11.0154539,12 10.8148221,11.9199469 10.661997,11.7606576 L4.22982538,5.39459846 C3.92339154,5.07520294 3.92339154,4.55894216 4.22982538,4.23954664 C4.53625921,3.92015112 5.03156915,3.92015112 5.33800299,4.23954664 L11.7701746,10.6056058 C12.0766085,10.9250013 12.0766085,11.4412621 11.7701746,11.7606576 C11.6173496,11.9199469 11.4167177,12 11.2160858,12 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

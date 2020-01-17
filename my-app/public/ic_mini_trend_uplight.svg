@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_mini_trend_uplight</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Trade-H.---Dark" transform="translate(-181.000000, -79.000000)" fill="#D0D3D4" fill-rule="nonzero">
+            <g transform="translate(0.000000, 50.000000)" id="cell/small/right-icon-light">
+                <g transform="translate(41.000000, 27.000000)">
+                    <g id="ic/mini/trendown" transform="translate(140.000000, 2.437500)">
+                        <g id="Group" transform="translate(8.000000, 6.500000) scale(1, -1) translate(-8.000000, -6.500000) translate(2.000000, 1.625000)">
+                            <path d="M9.28957473,8.80150138 C9.10775209,8.78269214 8.91842448,8.69133478 8.7649934,8.53265148 L2.33901981,2.16039431 C2.03137082,1.84221395 1.98297137,1.37435262 2.2307337,1.1136286 C2.47849604,0.852904584 2.92737067,0.899339891 3.23501966,1.21752025 L9.66099325,7.58977742 C9.96864224,7.90795778 10.0170417,8.37581912 9.76927936,8.63654313 C9.64571502,8.76657173 9.47139736,8.82031061 9.28957473,8.80150138 Z" id="Shape" transform="translate(6.000007, 4.874993) rotate(-45.000000) translate(-6.000007, -4.874993) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
