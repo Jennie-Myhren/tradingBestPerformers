@@ -43,3 +43,10 @@ tr {
   flex-direction: column;
   flex-grow: 1;
 }
+
+.dropdown {
+  background-color: white;
+  color: #0b1628;
+  padding: 10px;
+  position: relative;
+}
