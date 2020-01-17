@@ -3,27 +3,43 @@
   background-color: #0b1628;
   color: white;
 }
-/*
-.App-header {
-  background-color: #0b1628;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+
+h2,
+.table-row {
+  font-size: 0.75rem;
 }
 
-.App-link {
-  color: #61dafb;
-} */
+.mainDisplay {
+  display: flex;
+  justify-content: left;
+  justify-items: left;
+  align-content: left;
+}
 
-/* @keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-} */
+/* Left side of the main display */
+#leftDisplay {
+  margin-left: 25px;
+}
+
+.table-header {
+  font-size: 0.5rem;
+}
+
+tr {
+  border-bottom: 1px gray;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+
+/* Right side of the main display */
+.graphSelector {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}

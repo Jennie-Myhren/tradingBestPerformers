@@ -6,12 +6,19 @@ import SelectedAssets from './SelectedAssets';
 import GraphDisplay from './GraphDisplay';
 
 const App: React.FC = () => {
+  //state -- time period; default = 60 minutes
+  //state -- map topthree
+
   return (
     <div className="App">
       <TimeframeSelector />
-      <BestPerformers />
-      <SelectedAssets />
-      <GraphDisplay />
+      <div className="mainDisplay">
+        <BestPerformers />
+        <div className="graphSelector">
+          <SelectedAssets />
+          <GraphDisplay />
+        </div>
+      </div>
     </div>
   );
 };
