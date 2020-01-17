@@ -22,10 +22,14 @@ const TimeframeSelector: React.FC = () => {
   return (
     <div className="TimeSelector">
       <TimeIcon />
-      <h2>TIME FRAME</h2>
-      <select onClick={handleClick} onChange={handleSelect}>
+      <h2 className="header">TIME FRAME</h2>
+      <select
+        className="dropdown"
+        onClick={handleClick}
+        onChange={handleSelect}
+      >
         <option value="past 60 minutes">
-          60 Minutes {isClicked ? <ArrowUp /> : <ArrowDown />}
+          Past 60 Minutes {isClicked ? <ArrowUp /> : <ArrowDown />}
         </option>
         {/* Blue line */}
         <option value="past day">Past Day</option>

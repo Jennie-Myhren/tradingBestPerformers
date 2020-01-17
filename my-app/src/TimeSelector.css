@@ -1,8 +1,19 @@
 .TimeSelector {
-  /* background-image: linear-gradient(to right, blue, lightblue); */
   background-image: linear-gradient(to right, #15294a, #495fc2);
   color: white;
   display: flex;
   justify-items: left;
   align-items: center;
+}
+
+.header {
+  margin-left: 10px;
+  font-size: 1rem;
+}
+
+.dropdown {
+  margin-left: 20px;
+  height: 50px;
+  padding: 100px;
+  font-size: 1rem;
 }
