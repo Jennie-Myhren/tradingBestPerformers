@@ -11,8 +11,8 @@ export const fetchTopThree = timePeriod => {
     try {
       //IDENTIFY TOP THREE PERFORMERS IN TIME PERIOD
       //FETCH THOSE 3 SECURITIES' STATS, USING ID
-      const { data } = await axios.get(`/securities/${id}/stats`);
-      dispatch(setTopThree(data));
+      // const { data } = await axios.get(`/securities/${id}/stats`);
+      // dispatch(setTopThree(data));
     } catch (err) {
       console.error(err);
     }
