@@ -1,11 +1,11 @@
 import React from 'react';
-// import logo from './logo.svg';
 import './App.css';
+import TimeframeSelector from './TimeframeSelector';
 
 const App: React.FC = () => {
   return (
     <div className="App">
-      <h2>"Hi"</h2>
+      <TimeframeSelector />
     </div>
   );
 };
