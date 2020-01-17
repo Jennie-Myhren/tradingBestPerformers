@@ -1,0 +1,8 @@
+.TimeSelector {
+  /* background-image: linear-gradient(to right, blue, lightblue); */
+  background-image: linear-gradient(to right, #15294a, #495fc2);
+  color: white;
+  display: flex;
+  justify-items: left;
+  align-items: center;
+}
