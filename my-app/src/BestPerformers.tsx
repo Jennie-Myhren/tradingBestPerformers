@@ -32,6 +32,34 @@ const BestPerformers: React.FC = props => {
         },
       ],
     },
+    {
+      securityId: 'BCAP',
+      period: {
+        o: 1.4,
+        c: 1.5,
+      },
+      //Stats for each discrete unit within the total period (ex: for each day)
+      stats: [
+        {
+          o: 1.4,
+          c: 1.5,
+        },
+      ],
+    },
+    {
+      securityId: 'SPICE',
+      period: {
+        o: 1.07,
+        c: 1.08,
+      },
+      //Stats for each discrete unit within the total period (ex: for each day)
+      stats: [
+        {
+          o: 1.07,
+          c: 1.08,
+        },
+      ],
+    },
   ];
 
   return (
